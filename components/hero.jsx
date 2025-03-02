@@ -125,7 +125,7 @@ const HeroSection = () => {
                 NEW
               </div>
               <Image
-                src="/banner.webp"
+                src="/banner.jpeg"
                 width={1920}
                 height={1080}
                 alt="Dashboard Preview"
